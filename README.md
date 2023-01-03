@@ -1,1 +1,2 @@
-**Admin**
+<h1>Admin Dashboard</h1>
+Work in progress...
